@@ -7,7 +7,14 @@
 3. Clique em `New app`.
 4. Selecione o repositorio e a branch.
 5. Em `Main file path`, informe `src/app.py`.
-6. Clique em `Deploy`.
+6. Em `Advanced settings`, selecione Python `3.12`.
+7. Clique em `Deploy`.
+
+## Versao do Python
+
+Use Python `3.12`, a mesma versao usada nos testes locais do projeto.
+
+O Streamlit Community Cloud nao usa `runtime.txt` para definir a versao do Python. A versao deve ser escolhida na interface, em `Advanced settings`, durante o deploy ou em um redeploy.
 
 ## Secrets
 

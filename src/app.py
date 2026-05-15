@@ -59,7 +59,7 @@ def currency(value: float) -> str:
     return f"R$ {value:,.2f}".replace(",", "X").replace(".", ",").replace("X", ".")
 
 
-st.set_page_config(page_title=APP_TITLE, page_icon="VA", layout="wide")
+st.set_page_config(page_title=APP_TITLE, page_icon=":chart_with_upwards_trend:", layout="wide")
 
 kb = load_knowledge_base()
 summary = summarize_cashflow(kb.transactions)
