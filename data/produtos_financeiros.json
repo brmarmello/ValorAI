@@ -1,0 +1,34 @@
+[
+  {
+    "nome": "Conta Reserva ValorAI",
+    "categoria": "reserva",
+    "risco": "baixo",
+    "liquidez": "diaria",
+    "descricao": "Produto mockado para reserva de emergencia com liquidez diaria.",
+    "adequado_para": ["reserva de emergencia", "liquidez alta"]
+  },
+  {
+    "nome": "CDB Pos-Fixado ValorAI",
+    "categoria": "renda fixa",
+    "risco": "baixo",
+    "liquidez": "D+1",
+    "descricao": "Produto mockado de renda fixa pos-fixada para objetivos de curto e medio prazo.",
+    "adequado_para": ["perfil conservador", "perfil moderado", "baixo risco"]
+  },
+  {
+    "nome": "Fundo Balanceado ValorAI",
+    "categoria": "fundo",
+    "risco": "moderado",
+    "liquidez": "D+5",
+    "descricao": "Produto mockado com composicao balanceada para diversificacao.",
+    "adequado_para": ["perfil moderado", "diversificacao", "medio prazo"]
+  },
+  {
+    "nome": "Plano Meta Imovel",
+    "categoria": "planejamento",
+    "risco": "baixo",
+    "liquidez": "mensal",
+    "descricao": "Plano mockado para aportes mensais direcionados a entrada de imovel.",
+    "adequado_para": ["entrada de imovel", "aportes mensais", "planejamento"]
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "cliente": "Cliente ValorAI",
+  "idade": 32,
+  "renda_mensal_estimada": 8000.0,
+  "perfil_risco": "moderado",
+  "objetivos": [
+    "criar reserva de emergencia",
+    "reduzir gastos variaveis",
+    "investir para entrada de um imovel"
+  ],
+  "horizonte": "24 meses",
+  "preferencias": {
+    "liquidez": "alta",
+    "complexidade": "baixa",
+    "evitar": ["criptoativos alavancados", "produtos sem garantia clara"]
+  }
+}

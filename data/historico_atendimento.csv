@@ -1,0 +1,5 @@
+data,canal,intencao,resumo,status
+2026-03-05,chat,planejamento,O cliente pediu ajuda para criar reserva de emergencia.,resolvido
+2026-03-12,email,cartao,O cliente questionou aumento de gastos no cartao.,resolvido
+2026-03-28,chat,investimentos,O cliente demonstrou interesse em produtos de baixo risco.,resolvido
+2026-04-09,chat,orcamento,O cliente pediu limite mensal para lazer e restaurantes.,pendente
